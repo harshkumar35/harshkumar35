@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar35&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar35" /> </p>
 
-<p align="left"> <a href="https://twitter.com/harshku71956286" target="blank"><img src="https://img.shields.io/twitter/follow/harshku71956286?logo=twitter&style=for-the-badge" alt="harshku71956286" /></a> </p>
-
 - 🔭 I’m currently working on [AI legal assistant](https://lawyerup2023.vercel.app/)
 
 - 🌱 I’m currently learning **DSA,MERN**
@@ -21,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshku71956286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshku71956286" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshkumar25112003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkumar25112003/" height="30" width="40" /></a>
-<a href="https://instagram.com/whois.harsh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whois.harsh_" height="30" width="40" /></a>
+<a href="https://twitter.com/harshku71956286" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harshku71956286" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshkumar25112003/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshkumar25112003/" height="30" width="40" /></a>
+<a href="https://instagram.com/whois.harsh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"alt="whois.harsh_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
