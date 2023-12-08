@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yZ41P3YdMYMiyFPAPrzyGw.gif)
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Harsh kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src= "https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshku71956286" target="blank"><img src="https://img.shields.io/twitter/follow/harshku71956286?logo=twitter&style=for-the-badge" alt="harshku71956286" /></a> </p>
 
-- 🔭 I’m currently working on [AI leagal assistant](https://lawyerup2023.vercel.app/)
+- 🔭 I’m currently working on [AI legal assistant](https://lawyerup2023.vercel.app/)
 
 - 🌱 I’m currently learning **DSA,MERN**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **full stack development**
 
-- 📫 How to reach me **harshku612810@gmail.com**
+- 📫 How to reach me **harshku612810@gmail.com** 
 
 - ⚡ Fun fact **I am a Gym guy**
 
@@ -31,6 +31,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar35&show_icons=true&locale=en&layout=compact" alt="harshkumar35" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkumar35&show_icons=true&locale=en" alt="harshkumar35" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar35&" alt="harshkumar35" /></p>
