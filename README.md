@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar35&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar35" /> </p>
 
-- 🔭 I’m currently working on [AI legal assistant](https://legalsathi.vercel.app/)
+- 🔭 I’m currently working on [AI legal assistant](https://v0-legalsathi.vercel.app/)
 
 - 🌱 I’m currently learning **DSA,MERN**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://harshweb-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://harshkumarportfolio25.vercel.app/)
 
 - 💬 Ask me about **full stack development & DevOps engineer**
 
